@@ -1,10 +1,6 @@
 # Lecture 3. Database design. Entity-Relationship Diagrams
 
-<h2 align="center">Lecture 3</h2>
-
-<h2 align="center"><i>Database design - entity-relationship diagrams</i></h2>
-
-<hr><h3>Abstract</h3>
+<h3>Abstract</h3>
 
 <p>Lecture 3 is a presentation of the fundamental method of the development of
 the schema of a relational database.  This method consists of two steps. 
